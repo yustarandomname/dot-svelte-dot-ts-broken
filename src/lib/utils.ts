@@ -6,4 +6,4 @@ export class Util {
 	}
 }
 
-export const value = 12;
+export const some_value = 12;
